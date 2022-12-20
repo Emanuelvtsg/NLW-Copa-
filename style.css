@@ -34,7 +34,9 @@ ul {
 }
 
 body {
-    background: #121214 var(--bg) repeat top center/contain;
+    background: #121214 var(--bg) repeat top center;
+    background-size: 150vh;
+    
   }
 
 body * {
